@@ -5,6 +5,7 @@ canvas {
 
 body {
     background-color: #222222;
+    max-height: 480px; 
 }
 
 p {
