@@ -5,8 +5,6 @@ canvas {
 
 body {
     background-color: #222222;
-    transform: rotate(90deg); /* Поворот страницы на 90 градусов */
-    transform-origin: top left; /* Установка точки поворота */
 }
 
 p {
